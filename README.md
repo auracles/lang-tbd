@@ -2,7 +2,7 @@
 
 There are many languages and even more dialects in the world. 
 This project aims to centralize information about languages and dialects that have barely / no translation coverage with tools which are used every day.
-Tools such as dictionaries and text translation services. Or, OS interface lamguages.
+Tools such as dictionaries and text translation services. Or, OS interface languages.
 
 It is based off on the belief that everyone should be given an as good as possible chance to make sense of everyday information (on-/offline) and to express themselves without crucial contents being lost in translation.
 Personal curiosity and desire to communicate should not be limited to one's (often predetermined quality and quanitity of) linguistic education.
